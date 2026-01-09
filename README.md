@@ -129,8 +129,8 @@ Orçamento Gratuito • Máquinas Próprias • Zona Rural</p>
 <img src="img/obra3.jpg" alt="Canal de drenagem">
 <img src="img/obra4.jpg" alt="Patrolamento de estrada">
 <img src="img/obra5.jpg" alt="Pavimentação em concreto">
-<img src="img/obra6.jpg" alt="Obra de drenagem pluvial">
-<img src="img/obra7.jpg" alt="Abertura de estrada rural">
+<img src="https://github.com/matheusz19560-ops/goiano-terraplanagem/blob/9569a574c4b5f0753aae22a86e8b4ff9db755be8/obra5.jpg" alt="Obra de drenagem pluvial">
+<img src="https://github.com/matheusz19560-ops/goiano-terraplanagem/blob/9569a574c4b5f0753aae22a86e8b4ff9db755be8/obra7.jpg" alt="Abertura de estrada rural">
 <img src="https://github.com/matheusz19560-ops/goiano-terraplanagem/blob/194bd534a7c06032a8465de7ed8923f3c6303a94/obra8.jpg" alt="Serviço com motoniveladora">
 </div>
 </section>
