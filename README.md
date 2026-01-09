@@ -1,1 +1,0 @@
-# goiano-terraplanagem
