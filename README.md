@@ -124,14 +124,14 @@ Orçamento Gratuito • Máquinas Próprias • Zona Rural</p>
 <h2>Galeria de Serviços Executados</h2>
 
 <div class="gallery">
-<img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" alt="Terraplanagem e compactação">
+<img src="">
 <img src="img/obra2.jpg" alt="Assentamento de tubos de drenagem">
 <img src="img/obra3.jpg" alt="Canal de drenagem">
 <img src="img/obra4.jpg" alt="Patrolamento de estrada">
 <img src="img/obra5.jpg" alt="Pavimentação em concreto">
 <img src="img/obra6.jpg" alt="Obra de drenagem pluvial">
 <img src="img/obra7.jpg" alt="Abertura de estrada rural">
-<img src="img/obra8.jpg" alt="Serviço com motoniveladora">
+<img src="https://github.com/matheusz19560-ops/goiano-terraplanagem/blob/194bd534a7c06032a8465de7ed8923f3c6303a94/obra8.jpg" alt="Serviço com motoniveladora">
 </div>
 </section>
 
